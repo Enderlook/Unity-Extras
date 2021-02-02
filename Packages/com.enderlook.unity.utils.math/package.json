@@ -1,6 +1,6 @@
 {
   "name": "com.enderlook.unity.utils.math",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Enderlook Unity Utils Math",
   "description": "Provides additional mathematical utility methods.",
   "keywords": [
