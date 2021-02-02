@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Enderlook.Unity.Utils
+namespace Enderlook.Unity.Mathematics
 {
     /// <summary>
     /// Determines how number are rounded.

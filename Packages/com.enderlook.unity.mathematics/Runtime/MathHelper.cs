@@ -1,4 +1,4 @@
-﻿namespace Enderlook.Unity.Utils.Math
+﻿namespace Enderlook.Unity.Mathematics
 {
     /// <summary>
     /// Helper math methods.

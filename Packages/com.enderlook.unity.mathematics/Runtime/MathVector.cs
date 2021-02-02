@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Enderlook.Unity.Utils.Math
+namespace Enderlook.Unity.Mathematics
 {
     /// <summary>
     /// Helper methods for <see cref="Vector2"/> and <see cref="Vector3"/>.
